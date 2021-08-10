@@ -1,7 +1,7 @@
 ---
 title: Cai LUO
 role: Professor of Artificial Intelligence
-avatar_filename: mobile-suit-gundam-zaku-wallpaper-gundam-zaku-wallpaper.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
