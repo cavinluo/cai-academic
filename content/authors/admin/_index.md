@@ -1,5 +1,5 @@
 ---
-title: Cai LUO （罗偲）
+title: 罗偲 （Cai LUO）
 role: Professor of Artificial Intelligence
 avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
