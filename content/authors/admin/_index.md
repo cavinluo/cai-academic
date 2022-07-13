@@ -1,7 +1,7 @@
 ---
 title: 罗偲 （Cai LUO）
-role: Professor of Artificial Intelligence
-avatar_filename: avatar.jpg
+role: Associate Professor of Artificial Intelligence and Robotics
+avatar_filename: dsc_0006_s.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
@@ -42,6 +42,6 @@ email: ""
 superuser: true
 highlight_name: false
 ---
-罗偲 Cai LUO is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+罗偲 Cai LUO is a professor of artificial intelligence at the UPC UxV Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
