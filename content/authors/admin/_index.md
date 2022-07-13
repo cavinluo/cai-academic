@@ -1,7 +1,7 @@
 ---
 title: 罗偲 （Cai LUO）
 role: Associate Professor of Artificial Intelligence and Robotics
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
