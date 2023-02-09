@@ -9,4 +9,5 @@ author: admin
 design:
   background:
     image: upc-02.jpeg
+    image_darken: 0.5
 ---
