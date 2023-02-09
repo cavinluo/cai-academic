@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: upc-02.jpeg
+    image: free-driving-wil-dasovich.gif
     image_darken: 0.5
 ---
